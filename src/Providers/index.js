@@ -7,4 +7,6 @@ export const Providers = ({ children }) => {
       <CartProvider>{children}</CartProvider>
     </CatalogueProvider>
   );
+
+  
 };
